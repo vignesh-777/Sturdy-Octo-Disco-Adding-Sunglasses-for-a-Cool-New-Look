@@ -100,7 +100,7 @@ else:
     cv2.destroyAllWindows()
 ```
 # Output:
-<img width="331" height="406" alt="image" src="https://github.com/user-attachments/assets/3ef8eb7e-2a21-4496-a13e-6f23e8d3a21b" />
 
+<img width="426" height="570" alt="image" src="https://github.com/user-attachments/assets/9e435a75-9156-4792-b745-c33833415517" />
 
 
